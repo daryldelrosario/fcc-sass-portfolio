@@ -8,4 +8,3 @@ Full tutorial via <a href="https://youtu.be/_a5j7KoflTs">codeStackr on Freecodec
 - Made using SASS
 - Mobile-first design
 - Three breakpoints: 768px 1024px 1200px
-
