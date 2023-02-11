@@ -2,7 +2,7 @@
 Full tutorial via <a href="https://youtu.be/_a5j7KoflTs">codeStackr on Freecodecamp</a>
 
 ## <a href="https://daryldelrosario.github.io/fcc-sass-portfolio/">Live Demo</a>
-<kbd><img src="./resources/img/screenshot-livedemo.png" alt="home page for mike smith portfolio"></kbd>
+<kbd><a href="https://daryldelrosario.github.io/fcc-sass-portfolio/"><img src="./resources/img/screenshot-livedemo.png" alt="home page for mike smith portfolio"></a></kbd>
 
 ## Features
 - Made using SASS
